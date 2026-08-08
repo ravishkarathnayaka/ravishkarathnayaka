@@ -30,17 +30,23 @@ I enjoy working on projects that combine multiple areas of computing — from ap
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Featured Projects
 
 ### ☁️ UniFlow
 
-A hands-on cloud project I'm developing to gain practical experience with the **Microsoft Azure ecosystem**, including application deployment, cloud services, security, monitoring, and DevOps practices.
+A cloud-native application project built within the **Microsoft Azure ecosystem**, covering application deployment, cloud services, security, monitoring, and DevOps practices.
 
 `Microsoft Azure` `Cloud Computing` `DevOps` `Security`
 
+### 🔐 Source Code Vulnerability Detection System
+
+An NLP-based cybersecurity project focused on analyzing source code to identify potential software vulnerabilities through automated code analysis and natural language processing techniques.
+
+`Cybersecurity` `Natural Language Processing`  `Python`
+
 ### 🚗 TrialReady LK
 
-A digital platform designed to improve driving-school operations through student management, trial scheduling, learner-permit tracking, payments, notifications, attendance management, and intelligent recommendations.
+A digital platform designed to streamline driving-school operations through student management, trial scheduling, learner-permit tracking, payments, notifications, attendance management, and intelligent recommendations.
 
 `Software Engineering` `Web Development` `AI` `System Design`
 
