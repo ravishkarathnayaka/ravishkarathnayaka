@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ravishka Prabhath 👋
+# Hi, I'm Ravishka Rathnayaka 👋
 
 ### Cybersecurity Undergraduate | Cloud & DevOps Enthusiast | Software Developer
 
