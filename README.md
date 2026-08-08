@@ -91,29 +91,7 @@ Networking • Wireshark • Nginx • Apache • Shell Scripting • Jira • R
 
 ## 🔐 Areas of Interest
 
-```text
-Cybersecurity
-├── Network Security
-├── Cloud Security
-├── Application Security
-└── Security Monitoring
-
-Cloud Computing
-├── Microsoft Azure
-├── Amazon Web Services
-├── Cloud Architecture
-└── Cloud-Native Applications
-
-DevOps
-├── Git & GitHub
-├── CI/CD
-├── Docker
-├── Kubernetes
-└── Infrastructure Automation
-
-Software Engineering
-├── Backend Development
-├── APIs
-├── Database Systems
-├── System Design
-└── AI Integration
+- **Cybersecurity:** Network Security, Cloud Security, Application Security
+- **Cloud Computing:** Microsoft Azure, AWS, Cloud Architecture
+- **DevOps:** CI/CD, Docker, Kubernetes, Automation
+- **Software Engineering:** Backend Development, APIs, System Design, AI Integration
