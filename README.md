@@ -98,33 +98,4 @@ Networking • Wireshark • Nginx • Apache • Shell Scripting • Jira • R
 
 ---
 
-## 🎓 Certifications & Technical Learning
 
-- ISC2 **Certified in Cybersecurity (CC)**
-- Cisco **CCNA**
-- EC-Council **Certified Ethical Hacker (CEH)**
-- Microsoft **Certified: Azure Fundamentals** (AZ-900)
-- AWS **Certified Cloud Practitioner**
-- Aviatrix **Multicloud Network Associate**
-- DevOps Professional 101
-- Linux Commands & Shell Scripting
-- Generative AI for Everyone
-
----
-
-## 🏆 Community & Technical Leadership
-
-Alongside my technical work, I contribute to student and technology communities through leadership, project management, and knowledge-sharing initiatives.
-
-- **Chairperson — IEEE Computer Society Student Branch Chapter of SLTC**
-- **Coordinator — Member Activities Committee, IEEE Sri Lanka Section Student Activities Committee**
-
-Selected initiatives include `CodeMania v6.0` • `CloudSpace v1.0` • `IEEE SPARK VIII` • `JamborIEEE Zone C 2026` • `IEEE Day 2026`
-
----
-
-## 🤝 Connect With Me
-
-I'm open to connecting and collaborating around **Cybersecurity, Cloud Computing, DevOps, AI, and Software Engineering**.
-
-[LinkedIn](https://www.linkedin.com/in/ravishkarathnayaka/)
